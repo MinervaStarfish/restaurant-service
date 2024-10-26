@@ -127,6 +127,4 @@ Postman permite observar los datos JSON que se reciben o envían, facilitando la
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 
-## Notas Adicionales
-Este proyecto es un ejemplo básico de un servicio web RESTful y se puede ampliar para incluir autenticación, menús dinámicos y más funcionalidgit iniades.  
 
